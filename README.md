@@ -1,14 +1,15 @@
-# vertical-slider
-A page that displays a vertical slideshow of the state of Michoacan in Mexico.
+# Vertical Slider
 
-## Website URL
+## Description
+A page that displays a vertical slideshow with images of the state of Michoacan in Mexico. 
+
+![Vertical Slider screenshot](verticalslider.png)
+
+## Deployed Link
 https://mariacowdrey.github.io/vertical-slider/
 
-## Made With
-
+## Technologies Used
+* Javascript
 * HTML
 * CSS
-* Javascript
 
-## Contributor
-Maria Cowdrey
